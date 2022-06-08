@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Golosova76
-- 👀 I’m interested in python and SQL and programming
-- 🌱 I’m currently learning python and SQL and programming
+- 👋 Hi, I’m Anna Golosova.
+- 👀 I’m interested in JavaScript and SQL and programming site.
+- 🌱 I’m currently learning JavaScript and SQL and programming site.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Email: golosova76@gmail.com 
+- 
 
 <!---
 Golosova76/Golosova76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
