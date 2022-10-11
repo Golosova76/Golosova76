@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript and SQL and programming site.
 - 🌱 I’m currently learning JavaScript and SQL and programming site.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Email: golosova76@gmail.com 
+- 📫 How to reach me: Email: 
 - 
 
 <!---
