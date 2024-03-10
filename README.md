@@ -18,3 +18,7 @@
 Golosova76/Golosova76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+| Project     | Deploy      | Repository  |
+|-------------|-------------|-------------|
+| [Library]([https://github.com/](https://golosova76.github.io/RS_School_Stage0/library/))     | Текст 2     | Текст 3     |
+| Текст 4     | Текст 5     | Текст 6     |
