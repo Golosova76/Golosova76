@@ -18,4 +18,6 @@
 | Audio-player     | [Audio-player](https://golosova76.github.io/RS_School_Stage0/audio-player/)    | [link](https://github.com/Golosova76/RS_School_Stage0)     |
 | Slider_and_ImageAPI     | [Slider_and_ImageAPI](https://golosova76.github.io/Slider_and_ImageAPI/docs/)    | [link](https://github.com/Golosova76/Slider_and_ImageAPI)     |
 | Coffee House     | [Coffee House](https://golosova76.github.io/coffee-house/coffee-house/)     | [link](https://github.com/Golosova76/coffee-house)     |
+| YoutubeApp     | [YoutubeApp](https://golosova76.github.io/YoutubeApp/youtube-client-app/)     | [link](https://github.com/Golosova76/YoutubeApp)     |
+
 
