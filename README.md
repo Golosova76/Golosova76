@@ -1,10 +1,10 @@
 <h1 align="center">Привет, меня зовут Анна<img align="center" src="https://media.giphy.com/media/ehC4SqtNcEeLAiu66w/giphy.gif" width="50"/></h1>
 
-:woman: Я начинающий front-end разработчик. 
+:woman: Я front-end разработчик. 
        
 - 🌱 активно верстаю свое портфолио :writing_hand:.
 
-- :woman_student: углубляю свои знания HTML, CSS, JavaScript и TypeScript :woman_technologist:.
+- :woman_student: углубляю свои знания Angular, TypeScript, JavaScript, HTML и CSS :woman_technologist:.
 
 - 💻📱🕙 Работаю в новой для меня сфере деятельности - фронтенд разработке 💻📱🧑🏠
 
