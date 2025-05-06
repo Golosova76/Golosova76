@@ -2,7 +2,7 @@
 
 :woman: Я front-end разработчик. 
        
-- 🌱 активно верстаю свое портфолио :writing_hand:.
+- 🌱 не забываю про свое портфолио :writing_hand:.
 
 - :woman_student: углубляю свои знания Angular, TypeScript, JavaScript, HTML и CSS :woman_technologist:.
 
