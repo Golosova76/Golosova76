@@ -19,5 +19,5 @@
 | Slider_and_ImageAPI     | [Slider_and_ImageAPI](https://golosova76.github.io/Slider_and_ImageAPI/docs/)    | [link](https://github.com/Golosova76/Slider_and_ImageAPI)     |
 | Coffee House     | [Coffee House](https://golosova76.github.io/coffee-house/coffee-house/)     | [link](https://github.com/Golosova76/coffee-house)     |
 | YoutubeApp     | [YoutubeApp](https://golosova76.github.io/YoutubeApp/youtube-client-app/)     | [link](https://github.com/Golosova76/YoutubeApp)     |
-| Smart Home     | <a href="https://smart-home-2025.netlify.app/" target="_blank">Smart Home</a>     | <a href="https://github.com/Golosova76/smart-home" target="_blank">link</a>     |
+| Smart Home | [Smart Home](https://smart-home-2025.netlify.app/) | [link](https://github.com/Golosova76/smart-home) |
 
